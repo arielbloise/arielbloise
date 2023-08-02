@@ -5,7 +5,9 @@
 
 Ever since I was young, I have been passionate about technology and have had early exposure to computers. I find great joy in creating solutions and solving problems, and I am always eager to learn more!
 
-Recently, I graduated from the Henry Bootcamp, where I honed my technical and interpersonal skills as a developer. Throughout the bootcamp, I worked on both individual and group projects, allowing me to apply all the technologies taught during the course, as well as some additional ones I've learned for specific projects. </p>
+Recently, I graduated from the Henry Bootcamp, where I honed my technical and interpersonal skills as a developer. Throughout the bootcamp, I worked on both individual and group projects, allowing me to apply all the technologies taught during the course, as well as some additional ones I've learned for specific projects.
+
+Take a look at my projects and leave your star ⭐️</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arielbloise&label=Profile%20views&color=b40e2f&style=flat" alt="arielbloise" /> </p>
 
