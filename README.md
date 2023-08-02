@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ariel</h1>
 <h3 align="center">A full stack developer from Argentina</h3>
 
+<p align="left"> I am a Full Stack Developer with experience in web project development, capable of working in both corporate and freelance environments. My focus revolves around the JavaScript ecosystem, and I have successfully completed various projects using technologies such as React, Redux, Node.js, Express, Sequelize, PostgreSQL, Next.js, MongoDB, among others.
+
+Ever since I was young, I have been passionate about technology and have had early exposure to computers. I find great joy in creating solutions and solving problems, and I am always eager to learn more!
+
+Recently, I graduated from the Henry Bootcamp, where I honed my technical and interpersonal skills as a developer. Throughout the bootcamp, I worked on both individual and group projects, allowing me to apply all the technologies taught during the course, as well as some additional ones I've learned for specific projects. </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arielbloise&label=Profile%20views&color=b40e2f&style=flat" alt="arielbloise" /> </p>
 
 - 📫 How to reach me **arielnbloise@gmail.com**
